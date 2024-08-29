@@ -7,9 +7,11 @@
 
 ## ⚡ Activities
  - 카페 혼잡도 체크 어플 **boombim** 제작 및 배포(2023 07~2023 12)<br>
+   https://github.com/Munhangyeol/Boombim_makerstar
    
- - 한이음 ict 프로젝트: 초보개발자를 위한 웹 서비스 **devroute** 제작 및 배포(2023 03~)<br>
-   Repository: https://github.com/Munhangyeol/Dev-Route-BE
+ - 한이음 ict 프로젝트: 초보개발자를 위한 웹 서비스 **devroute** 제작 배포 및 운영(2023 03~)<br>
+   Repository: https://github.com/Munhangyeol/Dev-Route-BE><br>
+   https://devroute.site/mainpage
  
 
 
