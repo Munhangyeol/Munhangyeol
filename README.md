@@ -12,9 +12,9 @@
  - 한이음 ict 프로젝트: 초보개발자를 위한 웹 서비스 **devroute** 제작 배포 및 운영(2023 03~)<br>
    https://github.com/Munhangyeol/Dev-Route-BE<br>
    https://devroute.site/mainpage
+<br>
 
-
- 프로젝트 정리 내용
+ 프로젝트 요약 내용
  https://www.notion.so/26d0582020944a6eafc30766428b3e6b
 
 
