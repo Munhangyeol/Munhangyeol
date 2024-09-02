@@ -15,7 +15,6 @@
   [Devroute 프로젝트 GitHub 링크](https://github.com/Munhangyeol/Dev-Route-BE)  
   [Devroute 웹사이트](https://devroute.site/mainpage)
 
-  [프로젝트 요약 내용](https://www.notion.so/26d0582020944a6eafc30766428b3e6b)
 
 ## 🛠️ Tech Stacks
 ### Develop
