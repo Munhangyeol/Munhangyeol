@@ -1,19 +1,19 @@
 ## 👋Introduction
-- 항상 적극적인 자세로 팀에 기여하며, 문제를 해결하는 과정에서 **함께하는 사람들과의 소통**을 가장 중요하게 생각합니다.
+-  **함께하는 사람들과의 소통**을 가장 중요하게 생각합니다.
 
-- **기술적인 진보와 다양한 기술을 배우는 것**을 즐기며, 지속적인 학습을 통해 개인과 팀의 성장에 기여하고자 합니다.
+- **기술적인 진보와 다양한 기술을 배우는 것**을 즐깁니다.
  
-- 기술적인 진보를 이루는 것과 함께, 제가 만든 제품이 사용자에게 **실질적인 가치**를 제공하는 것을 중요하게 생각합니다.
+- 사용자에게 **실질적인 가치**를 제공하는 것을 중요하게 생각합니다.
 
 ## ⚡ Activities
 - 세종대학교 소프트웨어학과 재학중(2019.03~)
   
 - 카페 혼잡도 체크 어플 **boombim** 제작 및 배포(2023 07~2023 12)  
+
+- 한이음 ict 프로젝트: 초보개발자를 위한 웹 서비스 **devroute** 제작 배포 및 운영(2023 03~)
+
   [Boombim 프로젝트 GitHub 링크](https://github.com/Munhangyeol/Boombim_makerstar)
-   
-- 한이음 ict 프로젝트: 초보개발자를 위한 웹 서비스 **devroute** 제작 배포 및 운영(2023 03~)  
-  [Devroute 프로젝트 GitHub 링크](https://github.com/Munhangyeol/Dev-Route-BE)  
-  [Devroute 웹사이트](https://devroute.site/mainpage)
+  [Devroute 프로젝트 GitHub 링크](https://github.com/Munhangyeol/Dev-Route-BE)  [Devroute 웹사이트](https://devroute.site/mainpage)
 
 
 ## 🛠️ Tech Stacks
