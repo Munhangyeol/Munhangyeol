@@ -12,8 +12,7 @@
 
 - 한이음 ict 프로젝트: 초보개발자를 위한 웹 서비스 **devroute** 개발(2023 03~)
 
-  [Boombim 프로젝트 GitHub 링크](https://github.com/Munhangyeol/Boombim_makerstar)
-  [Devroute 프로젝트 GitHub 링크](https://github.com/Munhangyeol/Dev-Route-BE)  [Devroute 웹사이트](https://devroute.site/mainpage)
+
 
 
 ## 🛠️ Tech Stacks
