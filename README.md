@@ -31,8 +31,7 @@
  [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://mousy-operation-6b9.notion.site/26d0582020944a6eafc30766428b3e6b)](https://mousy-operation-6b9.notion.site/26d0582020944a6eafc30766428b3e6b)
 
 ## 🏅 Stats
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=msw0909)](https://solved.ac/msw0909/)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Munhangyeol&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000)
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=msw0909)](https://solved.ac/msw0909/)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Munhangyeol&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000)
 
  ## 📊 Project Results
 [![Boombim Project](https://img.shields.io/badge/Boombim_Project-181717?style=for-the-badge&logo=github)](https://github.com/Munhangyeol/Boombim_makerstar)
