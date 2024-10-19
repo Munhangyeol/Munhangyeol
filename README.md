@@ -23,10 +23,14 @@
 
 ## 🏅 Stats
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=msw0909)](https://solved.ac/msw0909/)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Munhangyeol&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000)
+ 
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Munhangyeol)](https://hits.seeyoufarm.com)                    
 
  ## 📊 Project Results
 [![Boombim Project](https://img.shields.io/badge/Boombim_Project-181717?style=for-the-badge&logo=github)](https://github.com/Munhangyeol/Boombim_makerstar)
 [![Devroute Project GitHub](https://img.shields.io/badge/Devroute_Project_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Munhangyeol/Dev-Route-BE)  [![Devroute Website](https://img.shields.io/badge/Devroute_Website-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://devroute.site/mainpage)
+
+
 
 
 
