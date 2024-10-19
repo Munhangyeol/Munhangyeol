@@ -1,10 +1,8 @@
 ## 👋About me
 
-### 📄 [Resume](https://mousy-operation-6b9.notion.site/26d0582020944a6eafc30766428b3e6b)  
-다시쓰는 이력서🧻
+### 📄 [다시쓰는 이력서](https://mousy-operation-6b9.notion.site/26d0582020944a6eafc30766428b3e6b)  
 
-### 📝 [My Blog](https://velog.io/@msw0909/posts)  
-개발세발로 작성한 개발 블로그🐶 
+### 🐶 [개발세발로 작성한 개발 블로그](https://velog.io/@msw0909/posts)  
   
 
 
