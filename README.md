@@ -1,24 +1,12 @@
-## 👋Introduction
--  **함께하는 사람들과의 소통**을 가장 중요하게 생각합니다.
+## 👋About me
 
-- **기술적인 진보와 다양한 기술을 배우는 것**을 즐깁니다.
- 
-- 사용자에게 **실질적인 가치**를 제공하는 것을 중요하게 생각합니다.
+### 📄 [Resume](https://mousy-operation-6b9.notion.site/26d0582020944a6eafc30766428b3e6b)  
+Check out my professional journey!
 
-## ⚡ Activities
+### 📝 [My Blog](https://velog.io/@msw0909/posts)  
+Explore my latest development insights on Velog.
 
-- **boombim**: 카페 혼잡도 체크 어플 개발 (2023.07 ~ 2023.12)
-  - 앱 개발자로 참여(flutter)
-
-- **devroute**: 초보개발자를 위한 웹 서비스 개발 (2024.03 ~ 2024.09, 한이음 ICT 프로젝트)
-  - 백엔드 개발자로 참여 (Spring)
-
-- **curtaincall**: (주) LK한성으로부터 위탁받아 어플 개발 (2024.08 ~ 현재)
-  - 백엔드 개발자로 참여 (Spring)
- 
-- **세종대학교 소프트웨어학과** 재학중 (2019.03 ~ 현재)
-
-
+  
 
 
 ## 🛠️ Tech Stacks
@@ -37,8 +25,7 @@
 [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white)](https://velog.io/@msw0909/posts)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/always__mun/)](https://www.instagram.com/always__mun/)
 
- ## 📜 Resume
-  [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://mousy-operation-6b9.notion.site/26d0582020944a6eafc30766428b3e6b)](https://mousy-operation-6b9.notion.site/26d0582020944a6eafc30766428b3e6b)
+
 
 ## 🏅 Stats
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=msw0909)](https://solved.ac/msw0909/)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Munhangyeol&layout=compact&bg_color=180,000000,&title_color=000000&text_color=000000)
