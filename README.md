@@ -21,14 +21,15 @@
 
 
 
-## 🏅 Stats
+## 🏅 Status
  
+
 <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/Munhangyeol"
-  width="600"
-  height="300"
-/>
+  <img
+    src="https://render.gitanimals.org/lines/Munhangyeol?pet-id=641540816308768536"
+    width="600"
+    height="120"
+  />
 </a>
   
 
