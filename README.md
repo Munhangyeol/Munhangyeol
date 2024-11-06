@@ -4,7 +4,7 @@
   <img
     src="https://render.gitanimals.org/lines/Munhangyeol?pet-id=641540816308768536"
     width="600"
-    height="120"
+    height="200"
   />
 </a>
 
