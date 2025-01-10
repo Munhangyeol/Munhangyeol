@@ -25,11 +25,12 @@
 - **Devroute**: 초보 개발자를 위한 직무별 로드맵 및 기술 스택 시각화 서비스 (2024.03~2024.10)  
   - Spring 백엔드 개발자로 참여  
   - 영상 및 로드맵 관련 API구현
-  - 데이터베이스 조회 성능 최적화 및 CI/CD 속도 개선 기여 
+  - 데이터베이스 조회 성능 최적화 ([🔗관련 PR](https://github.com/ICT-Dev-Route/Dev-Route-BE/pull/138))
+  - CI/CD 속도 개선 기여 ([🔗 관련 이슈](https://github.com/ICT-Dev-Route/Dev-Route-BE/issues/125))
 
 - **Curtaincall**: (주) LK한성 의뢰로 제작한 외주 어플리케이션 개발 (2024.08~2025.01)  
   - Spring 백엔드 개발자로 참여  
-  - Redis를 활용한 인증번호 저장 및 JWT 기반 인증 구현  
+  - Redis를 활용한 인증번호 저장 및 JWT 기반 인증 구현  ([🔗 고민한글](https://velog.io/@msw0909/jwtspring-security%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%9D%B8%EC%A6%9D-%EC%B2%98%EB%A6%AC))
 
 - **Socket Programming**: SMTP/IMAP 기반 이메일 송수신 시스템 및 WebSocket 통신 구현 (2024.09~2024.11)  
   - Spring 백엔드 개발자로 참여  
@@ -56,7 +57,7 @@
 
  ## 📄 Resume
  
- Know about my experiences [https://mousy-operation-6b9.notion.site/26d0582020944a6eafc30766428b3e6b](https://mousy-operation-6b9.notion.site/26d0582020944a6eafc30766428b3e6b)
+ [문한결 이력서](https://mousy-operation-6b9.notion.site/26d0582020944a6eafc30766428b3e6b)
 
 <p align="left">
 </p>
