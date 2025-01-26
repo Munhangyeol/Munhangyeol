@@ -56,8 +56,8 @@
 ----
 
  ## 📄 Resume
- 
- [문한결 이력서](https://mousy-operation-6b9.notion.site/26d0582020944a6eafc30766428b3e6b)
+ [문한결_이력서.pdf](https://github.com/user-attachments/files/18550250/250126_._._.pdf)
+
 
 <p align="left">
 </p>
