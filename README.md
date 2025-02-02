@@ -38,7 +38,11 @@
 
 - **Lucid**: LLM 기반 FPS 디펜스 게임 개발 (2024.08~2024.11)  
   - Spring 백엔드 개발자로 참여  
-  - Unreal 서버와의 통신 및 사용자 데이터 전달 API 구현  
+  - Unreal 서버와의 통신 및 사용자 데이터 전달 API 구현
+   
+- **restaraunt**: SOLID원칙하에 해결하는 자체 개발한 레스토랑 예제([🔗깃허브 ](https://github.com/Munhangyeol/restaurant?tab=readme-ov-file#%EA%B2%B0%EA%B3%BC-%EC%9A%94%EC%95%BD))
+  - JAVA 개발자로 참여
+  - POJO를 이용해서 SOLID,CLEAN CODE원칙에 따라서 문제를 해결   
 
 ---
 
