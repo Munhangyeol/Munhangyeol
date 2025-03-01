@@ -10,6 +10,8 @@
 
 ----
 
+
+
 ## 🧐 Education
 - **세종대학교** 소프트웨어학과 (2019.03~2025.02)
 - 삼성청년SW 아카데미 **SSAFY 13th** (2025.01~)
@@ -53,6 +55,15 @@
 - 2024 **한이음 멘토링 프로젝트 선정 및 수행**  
 - 2024 **세종대학교 소프트웨어융합 대학 학술제 최우수상** 수상  
 - 2024 **세종대학교 소프트웨어융합 대학 창의설계경진대회 장려상, 인기상** 수상  
+
+----
+
+## 🖥️Status
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=msw0909)](https://solved.ac/msw0909/)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Munhangyeol&show_icons=true&theme=radical)
+
+
+
 
 ----
 
