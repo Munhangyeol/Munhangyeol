@@ -60,7 +60,8 @@
 
 ## 🖥️Status
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=msw0909)](https://solved.ac/msw0909/)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Munhangyeol&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=Munhangyeol&show_icons=true&theme=radical" height="170">
+
 
 
 
