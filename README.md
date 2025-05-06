@@ -17,8 +17,8 @@
 - 삼성청년SW 아카데미 **SSAFY 13th** (2025.01~)
 
 ----
-🛠 Career
-- Curtaincall : 외주 어플리케이션 개발((주) LK한성) (2024.08 ~ 2025.01)
+## 🛠 Career
+- [Curtaincall](https://github.com/Munhangyeol/Curtaincall_Backend) : 외주 어플리케이션 개발((주) LK한성) (2024.08 ~ 2025.01)
   - Spring 기반 백엔드 개발 담당
   - 전화번호 관련 api 개발 및 성능 최적화
     - redis를 활용한 전화번호 인증 성능 개선
