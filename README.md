@@ -59,7 +59,7 @@
 
 ----
 
-## 🏆 Awards
+## 🏆 Awards &Certification
 
 - 2023 **대한민국 메이커스타** 입상
 - 2023 **학생 창업유망팀 300 경진대회 교육트랙 최종 선정 및 인증서** 수료  
@@ -67,7 +67,7 @@
 - 2024 **한이음 멘토링 프로젝트 선정 및 수행**  
 - 2024 **세종대학교 소프트웨어융합 대학 학술제 최우수상** 수상  
 - 2024 **세종대학교 소프트웨어융합 대학 창의설계경진대회 장려상, 인기상** 수상  
-
+- 2025 SQLD (SQL Developer, 한국데이터산업진흥원) ‒ 2025.04 취득
 ----
 
 ## 🖥️Status
@@ -82,9 +82,10 @@
 
 ## 📄 Resume
 
-[문한결_이력서.pdf](https://github.com/user-attachments/files/18550250/250126_._._.pdf)
+[문한결_이력서.pdf](https://github.com/user-attachments/files/20053340/250501_._._.1.pdf)
 
 <a href="https://github.com/devxb/gitanimals">
+
   <img
     src="https://render.gitanimals.org/lines/Munhangyeol?pet-id=641540816308768536"
     width="600"
