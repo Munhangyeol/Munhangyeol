@@ -17,6 +17,17 @@
 - 삼성청년SW 아카데미 **SSAFY 13th** (2025.01~)
 
 ----
+🛠 Career
+- Curtaincall : 외주 어플리케이션 개발((주) LK한성) (2024.08 ~ 2025.01)
+  - Spring 기반 백엔드 개발 담당
+  - 전화번호 관련 api 개발 및 성능 최적화
+    - redis를 활용한 전화번호 인증 성능 개선
+    - Jpql,querydsl을 이용한 update성능 개선 
+  - JWT 기반 사용자 인증 및 Spring Security 설정 구성([Velog 기술 블로그 🔗](https://velog.io/@msw0909/jwtspring-security%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%9D%B8%EC%A6%9D-%EC%B2%98%EB%A6%AC))
+  - aws ec2,rds를 활용한 devops환경 및 ci/cd파이프라인 구축
+
+
+
 
 ## ✨ Projects
 
@@ -29,9 +40,6 @@
   - 데이터베이스 조회 성능 최적화 ([🔗 PR](https://github.com/ICT-Dev-Route/Dev-Route-BE/pull/138))
   - CI/CD 속도 개선 기여 ([🔗 이슈](https://github.com/ICT-Dev-Route/Dev-Route-BE/issues/125))
 
-- **[Curtaincall](https://github.com/Munhangyeol/Curtaincall_Backend)**: (주) LK한성 의뢰로 제작한 외주 어플리케이션 개발 (2024.08~2025.01)  
-  - Spring 백엔드 개발자로 참여  
-  - Redis를 활용한 인증번호 저장 및 JWT 기반 인증 구현 ([🔗 Velog](https://velog.io/@msw0909/jwtspring-security%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%9D%B8%EC%A6%9D-%EC%B2%98%EB%A6%AC))
 
 - **[Socket Programming](https://github.com/SejongComputerNetwork8/webSocket)**: SMTP/IMAP 기반 이메일 송수신 시스템 및 WebSocket 통신 구현 (2024.09~2024.11)  
   - Spring 백엔드 개발자로 참여  
@@ -43,7 +51,11 @@
 
 - **[Restaurant](https://github.com/Munhangyeol/restaurant)**: SOLID 원칙하에 자체 개발한 레스토랑 예제 ([🔗 GitHub](https://github.com/Munhangyeol/restaurant))  
   - Java 개발자로 참여
-  - POJO를 이용해 SOLID, Clean Code 원칙에 따라 문제 해결  
+  - POJO를 이용해 SOLID, Clean Code 원칙에 따라 문제 해결
+ 
+- **[ELS](https://github.com/Munhangyeol/Els)**: Redis + Elasticsearch 기반 메시징 검색 시스템
+  - spring + reids stream,pub/sub +els 를 이용한 메시징 기반 검색 시스탬 구축
+  - [회고](https://velog.io/@msw0909/Redis-Pub-vs-Stream-with-ElasticSearch)   
 
 ----
 
