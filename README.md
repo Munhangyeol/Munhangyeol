@@ -58,6 +58,9 @@
   - [회고](https://velog.io/@msw0909/Redis-Pub-vs-Stream-with-ElasticSearch)   
 
 ----
+## 🆙Open Source Contributions
+-  **JabRef**
+   - [[#13420](https://github.com/JabRef/jabref/issues/13420)] JabRef의 CSL 스타일 관련 테스트 코드 수정 및 개선- [PR](https://github.com/JabRef/jabref/pull/13465)
 
 ## 🏆 Awards
 
