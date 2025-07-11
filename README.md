@@ -61,7 +61,8 @@
 ## 👍Open Source Contributions
 -  **JabRef**
    - [[#13420](https://github.com/JabRef/jabref/issues/13420)] JabRef의 CSL 스타일 관련 테스트 코드 수정 및 개선- [PR](https://github.com/JabRef/jabref/pull/13465)
-   - [[#13509](https://github.com/JabRef/jabref/issues/13509)]JabRef 5.15의 Status Log 기능과의 호환성을 유지하기 위해 모듈 및 의존성 복원- [PR](https://github.com/JabRef/jabref/pull/13511)
+   - [[#13509](https://github.com/JabRef/jabref/issues/13509)] JabRef 5.15의 Status Log 기능과의 호환성을 유지하기 위해 모듈 및 의존성 복원- [PR](https://github.com/JabRef/jabref/pull/13511)
+   - [[#13509](https://github.com/JabRef/jabref/issues/13509)] okhttp 4.12.0 → 5.0.0 버전 업그레이드 및 관련 의존성 및 모듈 변경-[PR](https://github.com/JabRef/jabref/pull/13521)
 
 ## 🏆 Awards
 
