@@ -41,9 +41,9 @@
   - CI/CD 속도 개선 기여 ([🔗 이슈](https://github.com/ICT-Dev-Route/Dev-Route-BE/issues/125))
 
 
-- **[Socket Programming](https://github.com/SejongComputerNetwork8/webSocket)**: SMTP/IMAP 기반 이메일 송수신 시스템 및 WebSocket 통신 구현 (2024.09~2024.11)  
+- **[Socket Programming](https://github.com/SejongComputerNetwork8/webSocket)**: SMTP/IMAP 기반 이메일 송수신 시스템 및 Socket 통신 구현 (2024.09~2024.11)  
   - Spring 백엔드 개발자로 참여  
-  - WebSocket을 활용한 TLS 통신 구현  
+  - Socket을 활용한 TLS 통신 구현  
 
 - **Lucid**: LLM 기반 FPS 디펜스 게임 개발 (2024.08~2024.11)  
   - Spring 백엔드 개발자로 참여  
