@@ -21,7 +21,7 @@ Samsung SSAFY 13th (2025.01 ~ 2025.07)
 
 ## Career
 
-### SECUI — MSSP Development Group (2025 ~ Present)  
+### SECUI — Service Development Team (2025 ~ Present)  
 Bluemax TAMS (Traffic Analysis & Management System)
 
 - TAMS 2.8.x QA and Hotfix stabilization  
