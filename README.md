@@ -1,97 +1,160 @@
-# 👋 Hi, I'm Munhangyeol
+# Hi, I'm Munhangyeol
 
-## 🤚 Summary
+## Summary
 
-🌱 I’m currently learning **Spring framework, Java**, **DevOps**
+Backend Engineer focused on Distributed Systems, Messaging Architecture, and DevOps Automation
 
-📝 I regularly write articles on [Velog](https://velog.io/@msw0909/posts)
+- Backend Engineer @ SECUI (Samsung SDS Affiliate)  
+- Experience in Spring Boot, Python (Flask), Redis, Celery, Elasticsearch  
+- Interested in Large Scale System Architecture and Performance Optimization  
+Tech Blog: https://velog.io/@msw0909/posts  
+Email: msw0909@naver.com  
 
-📫 How to reach me: **msw0909@naver.com**
+---
 
-----
+## Education
+
+Sejong University — Software Engineering (2019.03 ~ 2025.02)  
+Samsung SSAFY 13th (2025.01 ~ 2025.07)
+
+---
+
+## Career
+
+### SECUI — MSSP Development Group (2025 ~ Present)  
+Bluemax TAMS (Traffic Analysis & Management System)
+
+- TAMS 2.8.x QA and Hotfix stabilization  
+- Participating in TAMS 2.9.0 improvement and architecture enhancement  
+- Maintaining an in-house framework based on Python Flask and Redis(mariadb,socket,celery....)
+
+---
+
+### Curtaincall — Backend Developer (LK Hansung) (2024.08 ~ 2025.01)
+
+- Designed and implemented Spring Boot backend architecture  
+- Built Redis-based phone authentication system  
+- Implemented JWT + Spring Security authentication architecture  
+- DB performance optimization using QueryDSL and JPQL  
+- Built AWS EC2 + RDS DevOps infrastructure  
+- Built CI/CD pipeline using GitHub Actions  
+
+---
+
+## Projects
+
+### DTMS (Database Total Management System) — In Progress
+
+Platform for DB Schema Visualization and Sync Automation
+
+- ERD Visualization Engine  
+- Schema Diff Detection  
+- Migration Script Auto Generation  
+- Spring Boot Starter based DB Metadata Sync  
+- Vue / Nuxt Workspace UI  
+
+---
+
+### Redis + Elasticsearch Messaging Search System
+
+- Migrated Redis Pub/Sub → Redis Streams  
+- Implemented Consumer Group for message durability  
+- Designed async Elasticsearch indexing pipeline  
+- Implemented search API using Spring Data Elasticsearch  
+
+---
+
+### Boombim — Real-time Cafe Congestion Monitoring
+
+Flutter + Arduino + Firebase Realtime DB
+
+- Sensor → Firebase → Mobile App realtime pipeline  
+- Production usage and competition awards  
+
+GitHub:  
+https://github.com/Munhangyeol/Boombim_makerstar
+
+---
+
+### Devroute — Developer Roadmap Platform
+
+- YouTube API + Selenium data collection APIs  
+- Query performance optimization  
+- CI/CD build cache optimization (50%+ improvement)
+
+GitHub:  
+https://github.com/ICT-Dev-Route/Dev-Route-BE
+
+---
+
+### Socket Email System
+
+SMTP / IMAP + TLS Socket Communication  
+
+GitHub:  
+https://github.com/SejongComputerNetwork8/webSocket
+
+---
+
+### Lucid — LLM-based FPS Defense Game
+
+Spring Backend + Unreal Server Integration  
+
+---
+
+## Open Source
+
+JabRef  
+- CSL Format Test Fix  
+- Dependency Compatibility Fix  
+- okhttp Version Upgrade  
+
+---
+
+## Awards
+
+Korea Maker Star Contest — Awarded  
+Sejong Startup Camp — Excellence Award  
+Hanium ICT Mentoring — Selected Project  
+Sejong Software Convergence Academic Festival — Grand Prize  
+
+---
+
+## Status
+
+Solved.ac  
+https://solved.ac/msw0909/
 
 
+---
 
-## 🧐 Education
-- **세종대학교** 소프트웨어학과 (2019.03~2025.02)
-- 삼성청년SW 아카데미 **SSAFY 13th** (2025.01~2025.07)
+## Tech Stack
 
-----
-## 🛠 Career
-- Curtaincall : 외주 어플리케이션 개발((주) LK한성) (2024.08 ~ 2025.01)
-  - Spring 기반 백엔드 개발 담당
-  - 전화번호 관련 api 개발 및 성능 최적화
-    - redis를 활용한 전화번호 인증 성능 개선
-    - Jpql,querydsl을 이용한 update성능 개선 
-  - JWT 기반 사용자 인증 및 Spring Security 설정 구성([Velog 기술 블로그 🔗](https://velog.io/@msw0909/jwtspring-security%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%9D%B8%EC%A6%9D-%EC%B2%98%EB%A6%AC))
-  - aws ec2,rds를 활용한 devops환경 및 ci/cd파이프라인 구축
+Backend  
+- Java, Spring Boot, JPA, QueryDSL  
+- Python, Flask, Celery  
 
+Infra / DevOps  
+- AWS EC2, RDS  
+- Docker, GitHub Actions CI/CD  
+- Prometheus, Grafana  
 
+Messaging / Data  
+- Redis (Pub/Sub, Streams)  
+- Elasticsearch  
 
+---
 
-## ✨ Projects
+## Interest Areas
 
-- **[Boombim](https://github.com/Munhangyeol/Boombim_makerstar)**: 카페 혼잡도 실시간 모니터링 앱 및 웹 서비스 개발 (2023.06~2023.12)  
-  - Flutter 및 Arduino 개발자로 참여  
+- Distributed Systems Architecture  
+- Messaging Queue Internals  
+- Backend Performance Optimization  
+- Platform Engineering  
 
-- **[Devroute](https://github.com/ICT-Dev-Route/Dev-Route-BE)**: 초보 개발자를 위한 직무별 로드맵 및 기술 스택 시각화 서비스 (2024.03~2024.10)  
-  - Spring 백엔드 개발자로 참여  
-  - 영상 및 로드맵 관련 API 구현
-  - 데이터베이스 조회 성능 최적화 ([🔗 PR](https://github.com/ICT-Dev-Route/Dev-Route-BE/pull/138))
-  - CI/CD 속도 개선 기여 ([🔗 이슈](https://github.com/ICT-Dev-Route/Dev-Route-BE/issues/125))
+---
 
+## Philosophy
 
-- **[Socket Programming](https://github.com/SejongComputerNetwork8/webSocket)**: SMTP/IMAP 기반 이메일 송수신 시스템 및 Socket 통신 구현 (2024.09~2024.11)  
-  - Spring 백엔드 개발자로 참여  
-  - Socket을 활용한 TLS 통신 구현  
-
-- **Lucid**: LLM 기반 FPS 디펜스 게임 개발 (2024.08~2024.11)  
-  - Spring 백엔드 개발자로 참여  
-  - Unreal 서버와의 통신 및 사용자 데이터 전달 API 구현  
-
-- **[Restaurant](https://github.com/Munhangyeol/restaurant)**: SOLID 원칙하에 자체 개발한 레스토랑 예제 ([🔗 GitHub](https://github.com/Munhangyeol/restaurant))  
-  - Java 개발자로 참여
-  - POJO를 이용해 SOLID, Clean Code 원칙에 따라 문제 해결
- 
-- **[ELS](https://github.com/Munhangyeol/Els)**: Redis + Elasticsearch 기반 메시징 검색 시스템
-  - spring + reids stream,pub/sub +els 를 이용한 메시징 기반 검색 시스탬 구축
-  - [회고](https://velog.io/@msw0909/Redis-Pub-vs-Stream-with-ElasticSearch)   
-
-----
-## 👍Open Source Contributions
--  **JabRef**
-   - [[#13420](https://github.com/JabRef/jabref/issues/13420)] JabRef의 CSL 스타일 관련 테스트 코드 수정 및 개선- [PR](https://github.com/JabRef/jabref/pull/13465)
-   - [[#13509](https://github.com/JabRef/jabref/issues/13509)] JabRef 5.15의 Status Log 기능과의 호환성을 유지하기 위해 모듈 및 의존성 복원- [PR](https://github.com/JabRef/jabref/pull/13511)
-   - [[#13509](https://github.com/JabRef/jabref/issues/13509)] okhttp 4.12.0 → 5.0.0 버전 업그레이드 및 관련 의존성 및 모듈 변경-[PR](https://github.com/JabRef/jabref/pull/13521)
-
-## 🏆 Awards
-
-- 2023 **대한민국 메이커스타** 입상
-- 2023 **학생 창업유망팀 300 경진대회 교육트랙 최종 선정 및 인증서** 수료  
-- 2023 **세종대학교 하계 창업캠프 우수상** 수상  
-- 2024 **한이음 멘토링 프로젝트 선정 및 수행**  
-- 2024 **세종대학교 소프트웨어융합 대학 학술제 최우수상** 수상  
-- 2024 **세종대학교 소프트웨어융합 대학 창의설계경진대회 장려상, 인기상** 수상  
-
-----
-
-## 🖥️Status
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=msw0909)](https://solved.ac/msw0909/)
-<img src="https://github-readme-stats.vercel.app/api?username=Munhangyeol&show_icons=true&theme=radical" height="170">
-
-
-
-
-
-----
-
-## 📄 Portfolio
-[포트폴리오](https://mousy-operation-6b9.notion.site/1229da2460e48099a4c6dccbe4ebc719)
-
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/Munhangyeol?pet-id=641540816308768536"
-    width="600"
-    height="220"
-  />
-</a>
+I focus on solving real-world system problems  
+and building reliable infrastructure-level services.
