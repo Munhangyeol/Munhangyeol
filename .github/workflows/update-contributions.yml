@@ -6,15 +6,11 @@ on:
     - cron: '0 0,8,16 * * *'
   # 수동 실행 지원
   workflow_dispatch:
-  # main/master 브랜치 push 시 실행
-  push:
-    branches:
-      - main
-      - master
-    paths:
-      - 'src/**'
-      - 'featured-prs.json'
-      - '.github/workflows/update-contributions.yml'
+
+# 동일 브랜치에 커밋/푸시하는 작업은 경합 방지가 중요
+concurrency:
+  group: profile-main-updates
+  cancel-in-progress: true
 
 jobs:
   update-svg:
@@ -26,8 +22,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-           fetch-depth: 0
-        
+          fetch-depth: 0
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -38,7 +33,6 @@ jobs:
         env:
           GITHUB_USERNAME: ${{ github.repository_owner }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          # 설정 옵션 (Settings > Secrets and variables > Actions > Variables에서 설정)
           THEME: ${{ vars.THEME || 'light' }}
           AUTO_THEME: ${{ vars.AUTO_THEME || 'false' }}
           MAX_REPOS: ${{ vars.MAX_REPOS || '6' }}
@@ -52,10 +46,39 @@ jobs:
           PREVIEW_THEMES: 'dark'
         run: node src/index.js
 
-      - name: Commit and push if changed
+      - name: Commit changes (if any)
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add contributions*.svg
-          git diff --staged --quiet || git commit -m "chore: update contributions SVG [skip ci]"
-          git push
+
+          if [ -n "$(git status --porcelain)" ]; then
+            git add contributions*.svg
+            git commit -m "chore: update contributions SVG [skip ci]"
+          else
+            echo "No changes to commit."
+          fi
+
+      - name: Sync with remote main and push (retry)
+        run: |
+          # 커밋이 없으면 푸시할 것도 없음
+          if ! git rev-parse HEAD >/dev/null 2>&1; then
+            exit 0
+          fi
+
+          git fetch origin main
+
+          # 원격 변경사항을 먼저 반영
+          git pull --rebase origin main
+
+          # push race condition 대비 재시도
+          for i in 1 2 3; do
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            echo "Push rejected (remote updated). Retrying... ($i)"
+            git fetch origin main
+            git pull --rebase origin main
+          done
+
+          echo "Failed to push after retries."
+          exit 1
