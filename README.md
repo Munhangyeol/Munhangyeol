@@ -163,6 +163,9 @@ Spring Backend + Unreal Server Integration
 
 Contributed to stability, dependency compatibility, and library upgrades.
 
+![My Contributions](./contributions.svg)
+
+
 #### detail
 CSL Format Test Fix (https://github.com/JabRef/jabref/pull/13465)  
 Dependency Compatibility Fix (https://github.com/JabRef/jabref/pull/13511)  
