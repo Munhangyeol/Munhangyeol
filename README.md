@@ -1,32 +1,77 @@
 # Hi, I'm Munhangyeol
 
+---
+
 ## Summary
 
-Backend Engineer focused on Distributed Systems, Messaging Architecture, and DevOps Automation
+Backend Engineer specializing in **Distributed Systems**, **Messaging Architecture**, and **Infrastructure Automation**.
 
-- Backend Engineer @ SECUI (Samsung SDS Affiliate)  
-- Experience in Spring Boot, Python (Flask), Redis, Celery, Elasticsearch  
-- Interested in Large Scale System Architecture and Performance Optimization  
-Tech Blog: https://velog.io/@msw0909/posts  
-Email: msw0909@naver.com  
+I focus on building **reliable backend platforms** and solving **real-world performance and scalability problems**.
+
+- Backend Engineer @ **SECUI (Samsung SDS Affiliate)**
+- Experienced in **Spring Boot, Python (Flask), Redis, Celery, Elasticsearch**
+- Interested in **Large Scale System Architecture** and **High-Performance Backend Systems**
+
+**Tech Blog**  
+https://velog.io/@msw0909/posts  
+
+**Email**  
+mhg10181018@gmail.com
 
 ---
 
-## Education
+## 🧠 Recent Technical Focus
 
-Sejong University — Software Engineering (2019.03 ~ 2025.02)  
-Samsung SSAFY 13th (2025.01 ~ 2025.07)
+### Frontend Ecosystem
+
+Recently expanded frontend capability using Vue ecosystem:
+
+- Experienced with Vue 2 and Vue 3 architecture differences  
+- Build tool understanding:
+  - Vite (Dev Server + Modern Build Pipeline)
+  - Webpack (Legacy Enterprise Build Systems)
+  - Rollup (Library / Plugin Bundling Optimization)
+
+Able to understand and collaborate on full frontend build pipelines and performance optimization.
 
 ---
 
-## Career
+### 🤖 AI / Agent Workflow Automation
 
-### SECUI — Service Development Team (2025 ~ Present)  
-Bluemax TAMS (Traffic Analysis & Management System)
+Experienced in applying Claude AI for development workflow automation.
 
-- TAMS 2.8.x QA and Hotfix stabilization  
-- Participating in TAMS 2.9.0 improvement and architecture enhancement  
-- Maintaining an in-house framework based on Python Flask and Redis(mariadb,socket,celery....)
+- Designed and maintained **Claude Skills** for reusable development workflows  
+- Built **Agent-based automation flows** for coding and debugging tasks  
+- Authored **CLAUDE.md** to standardize AI collaboration context and improve response quality  
+- Applied AI-assisted development for code generation, debugging, and architecture design support  
+
+Focus area:
+- AI-assisted Development Workflow
+- Agent-based Coding Automation
+- Prompt Engineering for Stable Output
+
+---
+
+## 🎓 Education
+
+**Sejong University** — Software Engineering  
+(2019.03 ~ 2025.02)
+
+**Samsung SSAFY 13th**  
+(2025.01 ~ 2025.07)
+
+---
+
+## 💼 Career
+
+### SECUI — Service Development Team (2025 ~ Present)
+**Bluemax TAMS (Traffic Analysis & Management System)**
+
+Responsible for maintaining and improving backend microservices in a large-scale traffic analysis platform.
+
+- Stabilized TAMS 2.8.x through QA validation and hotfix deployment  
+- Contributed to TAMS 2.9.0 architecture and feature improvements  
+- Maintained an internal backend framework built on Python Flask, Redis, MariaDB, Socket Communication, and Celery  
 
 ---
 
@@ -35,17 +80,17 @@ Bluemax TAMS (Traffic Analysis & Management System)
 - Designed and implemented Spring Boot backend architecture  
 - Built Redis-based phone authentication system  
 - Implemented JWT + Spring Security authentication architecture  
-- DB performance optimization using QueryDSL and JPQL  
-- Built AWS EC2 + RDS DevOps infrastructure  
-- Built CI/CD pipeline using GitHub Actions  
+- Improved DB performance using QueryDSL and JPQL optimization  
+- Built AWS EC2 + RDS infrastructure  
+- Implemented CI/CD pipelines using GitHub Actions  
 
 ---
 
-## Projects
+## 📦 Projects
 
 ### DTMS (Database Total Management System) — In Progress
 
-Platform for DB Schema Visualization and Sync Automation
+Platform for database schema visualization and automated synchronization.
 
 - ERD Visualization Engine  
 - Schema Diff Detection  
@@ -57,10 +102,10 @@ Platform for DB Schema Visualization and Sync Automation
 
 ### Redis + Elasticsearch Messaging Search System
 
-- Migrated Redis Pub/Sub → Redis Streams  
-- Implemented Consumer Group for message durability  
-- Designed async Elasticsearch indexing pipeline  
-- Implemented search API using Spring Data Elasticsearch  
+- Migrated Redis Pub/Sub → Redis Streams architecture  
+- Implemented Consumer Group for message durability and reliability  
+- Designed asynchronous Elasticsearch indexing pipeline  
+- Implemented search APIs using Spring Data Elasticsearch  
 
 ---
 
@@ -68,21 +113,21 @@ Platform for DB Schema Visualization and Sync Automation
 
 Flutter + Arduino + Firebase Realtime DB
 
-- Sensor → Firebase → Mobile App realtime pipeline  
-- Production usage and competition awards  
+- Implemented real-time sensor → cloud → mobile pipeline  
+- Production deployment and competition award-winning project  
 
-GitHub:  
+**GitHub**  
 https://github.com/Munhangyeol/Boombim_makerstar
 
 ---
 
 ### Devroute — Developer Roadmap Platform
 
-- YouTube API + Selenium data collection APIs  
-- Query performance optimization  
-- CI/CD build cache optimization (50%+ improvement)
+- Built YouTube API + Selenium data collection APIs  
+- Optimized database query performance  
+- Improved CI/CD build speed by applying build cache strategy (50%+ improvement)
 
-GitHub:  
+**GitHub**  
 https://github.com/ICT-Dev-Route/Dev-Route-BE
 
 ---
@@ -91,7 +136,7 @@ https://github.com/ICT-Dev-Route/Dev-Route-BE
 
 SMTP / IMAP + TLS Socket Communication  
 
-GitHub:  
+**GitHub**  
 https://github.com/SejongComputerNetwork8/webSocket
 
 ---
@@ -102,66 +147,64 @@ Spring Backend + Unreal Server Integration
 
 ---
 
-## Open Source
+## 🌐 Open Source Contributions
 
-JabRef  
-- CSL Format Test Fix  
-- Dependency Compatibility Fix  
-- okhttp Version Upgrade  
+### JabRef
 
-GitHub:  
+Contributed to stability, dependency compatibility, and library upgrades.
+
+#### detail
+CSL Format Test Fix (https://github.com/JabRef/jabref/pull/13465)  
+Dependency Compatibility Fix (https://github.com/JabRef/jabref/pull/13511)  
+okhttp Version Upgrade  (https://github.com/JabRef/jabref/pull/13521)  
+
+**Repository**  
 https://github.com/JabRef/jabref  
 
-PRs:  
-https://github.com/JabRef/jabref/pull/13465  
-https://github.com/JabRef/jabref/pull/13511  
-https://github.com/JabRef/jabref/pull/13521  
 ---
 
-## Awards
+## 🏆 Awards
 
-Korea Maker Star Contest — Awarded  
-Sejong Startup Camp — Excellence Award  
-Hanium ICT Mentoring — Selected Project  
-Sejong Software Convergence Academic Festival — Grand Prize  
+- Korea Maker Star Contest — Awarded  
+- Sejong Startup Camp — Excellence Award  
+- Hanium ICT Mentoring — Selected Project  
+- Sejong Software Convergence Academic Festival — Grand Prize  
 
 ---
 
-## Status
+## 📜 Certifications
 
-Solved.ac  
-https://solved.ac/msw0909/
+- Engineer Information Processing (정보처리기사)  
+- SQL Developer (SQLD)
+
+---
+
+## 📊 PS(Problem Solving)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=msw0909)](https://solved.ac/msw0909/)
 
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
-Backend  
+### Backend Development
 - Java, Spring Boot, JPA, QueryDSL  
 - Python, Flask, Celery  
 
-Infra / DevOps  
+### Infrastructure / DevOps
 - AWS EC2, RDS  
 - Docker, GitHub Actions CI/CD  
 - Prometheus, Grafana  
 
-Messaging / Data  
+### Messaging / Data Platform
 - Redis (Pub/Sub, Streams)  
 - Elasticsearch  
 
 ---
 
-## Interest Areas
+## 🚀 Interest Areas
 
 - Distributed Systems Architecture  
 - Messaging Queue Internals  
 - Backend Performance Optimization  
 - Platform Engineering  
-
----
-
-## Philosophy
-
-I focus on solving real-world system problems  
-and building reliable infrastructure-level services.
