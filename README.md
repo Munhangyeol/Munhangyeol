@@ -158,12 +158,11 @@ Spring Backend + Unreal Server Integration
 ---
 
 ## 🌐 Open Source Contributions
-
+![My Contributions](./contributions.svg)
 ### JabRef
-
 Contributed to stability, dependency compatibility, and library upgrades.
 
-![My Contributions](./contributions.svg)
+
 
 
 #### detail
