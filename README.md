@@ -21,6 +21,16 @@ mhg10181018@gmail.com
 ---
 
 ## 🧠 Recent Technical Focus
+### Backend Engineering
+
+Recently reinforced backend fundamentals with a focus on **code quality, maintainability, and design principles**.
+
+- Explored what **"pythonic code"** means in practice (readability, simplicity, and consistency)
+- Applied pythonic design principles to improve backend code readability and maintainability
+- Applied **SOLID principles** in Java and Spring-based backend development
+- Improved code structure through proper layering, dependency management, and interface-based design
+- Focused on writing maintainable and scalable backend services rather than only implementing features
+---
 
 ### Frontend Ecosystem
 
