@@ -109,6 +109,13 @@ JabRef
 - Dependency Compatibility Fix  
 - okhttp Version Upgrade  
 
+GitHub:  
+https://github.com/JabRef/jabref  
+
+PRs:  
+https://github.com/JabRef/jabref/pull/13465  
+https://github.com/JabRef/jabref/pull/13511  
+https://github.com/JabRef/jabref/pull/13521  
 ---
 
 ## Awards
