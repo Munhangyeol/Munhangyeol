@@ -7,7 +7,7 @@ Backend Engineer specializing in **Distributed Systems**, **Messaging Architectu
 
 I focus on building **reliable backend platforms** and solving **real-world performance and scalability problems**.
 
-- Backend Engineer @ **SECUI**
+- Backend Engineer @ **SECUI**(Samsung SDS Affiliate)
 - Experienced in **Spring Boot, Python (Flask), Redis, Celery, Elasticsearch**
 - Interested in **Large Scale System Architecture** and **High-Performance Backend Systems**
 
