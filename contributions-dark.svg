@@ -1,15 +1,182 @@
-<svg width="480" height="150" viewBox="0 0 480 150" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" style="stop-color:#1a1b26"/>
-      <stop offset="100%" style="stop-color:#24283b"/>
-    </linearGradient>
-  </defs>
-  <rect width="480" height="150" fill="url(#bgGrad)" rx="16"/>
-  <text x="30" y="45" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#c0caf5">
-    Open-Source Contributions
-  </text>
-  <text x="240" y="100" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#565f89" text-anchor="middle">
-    No contributions yet. Start contributing
-  </text>
+<svg width="480" height="296" viewBox="0 0 480 296" xmlns="http://www.w3.org/2000/svg">
+  
+    <style>
+      @keyframes fadeIn {
+        from { opacity: 0; }
+        to { opacity: 1; }
+      }
+      .card {
+        animation: fadeIn 0.4s ease-out forwards;
+        opacity: 0;
+      }
+      .card-0 { animation-delay: 0s; }
+      .card-1 { animation-delay: 0.1s; }
+      .card-2 { animation-delay: 0.2s; }
+      
+    </style>
+  
+  
+    <defs>
+      <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" style="stop-color:#1a1b26"/>
+        <stop offset="100%" style="stop-color:#24283b"/>
+      </linearGradient>
+    </defs>
+    <rect width="480" height="296" fill="url(#bgGrad)" rx="16"/>
+  
+  
+    <g transform="translate(18, 23)">
+      <text font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#c0caf5">
+        Open-Source Contributions
+      </text>
+      <g transform="translate(0, 26)">
+        <svg width="16" height="16" viewBox="0 0 20 20" fill="#9ece6a"><path fill-rule="evenodd" d="M16.704 4.153a.75.75 0 01.143 1.052l-8 10.5a.75.75 0 01-1.127.075l-4.5-4.5a.75.75 0 011.06-1.06l3.894 3.893 7.48-9.817a.75.75 0 011.05-.143z" clip-rule="evenodd"/></svg>
+        <text x="20" y="12" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#9ece6a">
+          24 PRs Merged · 1 Repo
+        </text>
+      </g>
+      <g transform="translate(364, 5)">
+        <rect width="80" height="24" rx="12" fill="#9ece6a"/>
+        <text x="40" y="16" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="800" fill="#1a1b26" text-anchor="middle">
+          Score: 260
+        </text>
+      </g>
+    </g>
+  
+  
+      <g transform="translate(18, 76)" class="card card-0">
+        <!-- Card Background -->
+        <rect width="205" height="95" rx="12" fill="#2d3348"/>
+
+        <!-- Repo Icon -->
+        <g transform="translate(14, 14)">
+          <defs>
+            <clipPath id="circleView-0">
+              <circle cx="14" cy="14" r="14"/>
+            </clipPath>
+          </defs>
+          <circle cx="14" cy="14" r="14" fill="#2d3348"/>
+          <image href="data:image/png;base64,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" x="0" y="0" width="28" height="28" clip-path="url(#circleView-0)"/>
+        </g>
+
+        <!-- Repo Name & PR Number -->
+        <text x="50" y="22" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#c0caf5">
+          JabRef/jabref
+        </text>
+        <text x="50" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="500" fill="#7aa2f7">
+          #13521
+        </text>
+
+        <!-- PR Title -->
+        <text x="50" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" fill="#565f89">
+          chore: bump-okhttp-4.1...
+        </text>
+
+        <!-- Contribution Type Badge -->
+        <g transform="translate(14, 70)">
+          <rect width="65" height="18" rx="4" fill="#9ece6a"/>
+          <text x="32.5" y="13" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9" font-weight="700" fill="#1a1b26" text-anchor="middle">
+            Merged
+          </text>
+        </g>
+
+        <!-- Date -->
+        <g transform="translate(85, 70)">
+          <svg width="12" height="12" viewBox="0 0 20 20" fill="#9ece6a"><path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"/></svg>
+          <text x="16" y="10" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9" fill="#565f89">
+            Jul 11, 2025
+          </text>
+        </g>
+      </g>
+    
+      <g transform="translate(235, 76)" class="card card-1">
+        <!-- Card Background -->
+        <rect width="205" height="95" rx="12" fill="#2d3348"/>
+
+        <!-- Repo Icon -->
+        <g transform="translate(14, 14)">
+          <defs>
+            <clipPath id="circleView-1">
+              <circle cx="14" cy="14" r="14"/>
+            </clipPath>
+          </defs>
+          <circle cx="14" cy="14" r="14" fill="#2d3348"/>
+          <image href="data:image/png;base64,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" x="0" y="0" width="28" height="28" clip-path="url(#circleView-1)"/>
+        </g>
+
+        <!-- Repo Name & PR Number -->
+        <text x="50" y="22" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#c0caf5">
+          JabRef/jabref
+        </text>
+        <text x="50" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="500" fill="#7aa2f7">
+          #13511
+        </text>
+
+        <!-- PR Title -->
+        <text x="50" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" fill="#565f89">
+          fix: revert Java modul...
+        </text>
+
+        <!-- Contribution Type Badge -->
+        <g transform="translate(14, 70)">
+          <rect width="65" height="18" rx="4" fill="#9ece6a"/>
+          <text x="32.5" y="13" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9" font-weight="700" fill="#1a1b26" text-anchor="middle">
+            Merged
+          </text>
+        </g>
+
+        <!-- Date -->
+        <g transform="translate(85, 70)">
+          <svg width="12" height="12" viewBox="0 0 20 20" fill="#9ece6a"><path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"/></svg>
+          <text x="16" y="10" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9" fill="#565f89">
+            Jul 9, 2025
+          </text>
+        </g>
+      </g>
+    
+      <g transform="translate(18, 183)" class="card card-2">
+        <!-- Card Background -->
+        <rect width="205" height="95" rx="12" fill="#2d3348"/>
+
+        <!-- Repo Icon -->
+        <g transform="translate(14, 14)">
+          <defs>
+            <clipPath id="circleView-2">
+              <circle cx="14" cy="14" r="14"/>
+            </clipPath>
+          </defs>
+          <circle cx="14" cy="14" r="14" fill="#2d3348"/>
+          <image href="data:image/png;base64,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" x="0" y="0" width="28" height="28" clip-path="url(#circleView-2)"/>
+        </g>
+
+        <!-- Repo Name & PR Number -->
+        <text x="50" y="22" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="600" fill="#c0caf5">
+          JabRef/jabref
+        </text>
+        <text x="50" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11" font-weight="500" fill="#7aa2f7">
+          #13465
+        </text>
+
+        <!-- PR Title -->
+        <text x="50" y="52" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" fill="#565f89">
+          test: adapt CSLFormatU...
+        </text>
+
+        <!-- Contribution Type Badge -->
+        <g transform="translate(14, 70)">
+          <rect width="65" height="18" rx="4" fill="#9ece6a"/>
+          <text x="32.5" y="13" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9" font-weight="700" fill="#1a1b26" text-anchor="middle">
+            Merged
+          </text>
+        </g>
+
+        <!-- Date -->
+        <g transform="translate(85, 70)">
+          <svg width="12" height="12" viewBox="0 0 20 20" fill="#9ece6a"><path fill-rule="evenodd" d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zm0 5a1 1 0 000 2h8a1 1 0 100-2H6z" clip-rule="evenodd"/></svg>
+          <text x="16" y="10" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9" fill="#565f89">
+            Jul 5, 2025
+          </text>
+        </g>
+      </g>
+    
 </svg>
