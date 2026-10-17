@@ -6,7 +6,7 @@
 
 Backend Engineer interested in solving real-world problems around **performance, scalability, maintainability, and security**.
 
-- Backend Engineer @ **SECUI** (Samsung SDS Affiliate)
+- Backend Engineer at **[SECUi](https://www.secui.com/)** (Samsung SDS Affiliate)
 - Experienced with **Spring Boot, Python, Redis, Celery, and Elasticsearch**
 - Building **VulnTrace**, a vulnerability analysis and prioritization platform
 - Interested in **Backend Systems, Security Engineering, and Infrastructure Automation**
